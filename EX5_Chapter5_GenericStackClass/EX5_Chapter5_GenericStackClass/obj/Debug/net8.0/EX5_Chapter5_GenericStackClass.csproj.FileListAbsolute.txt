@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\bin\Debug\net8.0\EX5_Chapter5_GenericStackClass.exe
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\bin\Debug\net8.0\EX5_Chapter5_GenericStackClass.deps.json
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\bin\Debug\net8.0\EX5_Chapter5_GenericStackClass.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\bin\Debug\net8.0\EX5_Chapter5_GenericStackClass.dll
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\bin\Debug\net8.0\EX5_Chapter5_GenericStackClass.pdb
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.dll
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\refint\EX5_Chapter5_GenericStackClass.dll
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.pdb
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\EX5_Chapter5_GenericStackClass.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX5_Chapter5_GenericStackClass\EX5_Chapter5_GenericStackClass\obj\Debug\net8.0\ref\EX5_Chapter5_GenericStackClass.dll

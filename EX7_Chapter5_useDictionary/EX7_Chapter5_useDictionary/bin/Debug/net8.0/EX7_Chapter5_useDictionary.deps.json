@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EX7_Chapter5_useDictionary/1.0.0": {
+        "runtime": {
+          "EX7_Chapter5_useDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX7_Chapter5_useDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

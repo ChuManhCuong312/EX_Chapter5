@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EX6_Chapter5_Hashtable/1.0.0": {
+        "runtime": {
+          "EX6_Chapter5_Hashtable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX6_Chapter5_Hashtable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

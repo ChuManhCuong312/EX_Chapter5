@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\bin\Debug\net8.0\EX7_Chapter5_useDictionary.exe
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\bin\Debug\net8.0\EX7_Chapter5_useDictionary.deps.json
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\bin\Debug\net8.0\EX7_Chapter5_useDictionary.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\bin\Debug\net8.0\EX7_Chapter5_useDictionary.dll
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\bin\Debug\net8.0\EX7_Chapter5_useDictionary.pdb
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.dll
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\refint\EX7_Chapter5_useDictionary.dll
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.pdb
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\EX7_Chapter5_useDictionary.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX7_Chapter5_useDictionary\EX7_Chapter5_useDictionary\obj\Debug\net8.0\ref\EX7_Chapter5_useDictionary.dll

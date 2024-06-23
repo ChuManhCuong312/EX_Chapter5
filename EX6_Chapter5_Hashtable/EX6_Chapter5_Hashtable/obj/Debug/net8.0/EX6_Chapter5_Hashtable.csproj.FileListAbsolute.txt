@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\bin\Debug\net8.0\EX6_Chapter5_Hashtable.exe
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\bin\Debug\net8.0\EX6_Chapter5_Hashtable.deps.json
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\bin\Debug\net8.0\EX6_Chapter5_Hashtable.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\bin\Debug\net8.0\EX6_Chapter5_Hashtable.dll
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\bin\Debug\net8.0\EX6_Chapter5_Hashtable.pdb
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.dll
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\refint\EX6_Chapter5_Hashtable.dll
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.pdb
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\EX6_Chapter5_Hashtable.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX6_Chapter5_Hashtable\EX6_Chapter5_Hashtable\obj\Debug\net8.0\ref\EX6_Chapter5_Hashtable.dll
