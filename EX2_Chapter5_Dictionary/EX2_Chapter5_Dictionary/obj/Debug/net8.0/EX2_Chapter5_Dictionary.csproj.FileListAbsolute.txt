@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\bin\Debug\net8.0\EX2_Chapter5_Dictionary.exe
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\bin\Debug\net8.0\EX2_Chapter5_Dictionary.deps.json
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\bin\Debug\net8.0\EX2_Chapter5_Dictionary.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\bin\Debug\net8.0\EX2_Chapter5_Dictionary.dll
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\bin\Debug\net8.0\EX2_Chapter5_Dictionary.pdb
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.dll
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\refint\EX2_Chapter5_Dictionary.dll
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.pdb
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\EX2_Chapter5_Dictionary.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX2_Chapter5_Dictionary\EX2_Chapter5_Dictionary\obj\Debug\net8.0\ref\EX2_Chapter5_Dictionary.dll

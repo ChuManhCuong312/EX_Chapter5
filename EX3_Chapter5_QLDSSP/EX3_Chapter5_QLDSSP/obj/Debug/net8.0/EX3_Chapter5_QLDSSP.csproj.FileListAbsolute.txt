@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\bin\Debug\net8.0\EX3_Chapter5_QLDSSP.exe
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\bin\Debug\net8.0\EX3_Chapter5_QLDSSP.deps.json
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\bin\Debug\net8.0\EX3_Chapter5_QLDSSP.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\bin\Debug\net8.0\EX3_Chapter5_QLDSSP.dll
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\bin\Debug\net8.0\EX3_Chapter5_QLDSSP.pdb
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.dll
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\refint\EX3_Chapter5_QLDSSP.dll
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.pdb
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\EX3_Chapter5_QLDSSP.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX3_Chapter5_QLDSSP\EX3_Chapter5_QLDSSP\obj\Debug\net8.0\ref\EX3_Chapter5_QLDSSP.dll

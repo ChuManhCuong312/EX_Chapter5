@@ -1,0 +1,14 @@
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\bin\Debug\net8.0\EX4_Chapter5_ValueMax.exe
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\bin\Debug\net8.0\EX4_Chapter5_ValueMax.deps.json
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\bin\Debug\net8.0\EX4_Chapter5_ValueMax.runtimeconfig.json
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\bin\Debug\net8.0\EX4_Chapter5_ValueMax.dll
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\bin\Debug\net8.0\EX4_Chapter5_ValueMax.pdb
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.AssemblyInfoInputs.cache
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.AssemblyInfo.cs
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.csproj.CoreCompileInputs.cache
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.dll
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\refint\EX4_Chapter5_ValueMax.dll
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.pdb
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\EX4_Chapter5_ValueMax.genruntimeconfig.cache
+E:\Study\Code with VisualStudio\EX4_Chapter5_ValueMax\EX4_Chapter5_ValueMax\obj\Debug\net8.0\ref\EX4_Chapter5_ValueMax.dll

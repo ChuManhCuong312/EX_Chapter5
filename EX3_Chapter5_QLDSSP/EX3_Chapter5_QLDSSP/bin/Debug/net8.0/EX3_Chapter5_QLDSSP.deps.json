@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EX3_Chapter5_QLDSSP/1.0.0": {
+        "runtime": {
+          "EX3_Chapter5_QLDSSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX3_Chapter5_QLDSSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
